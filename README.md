@@ -2,7 +2,7 @@
 
 A real-time weather app built with React.js and Tailwind CSS. Search any city in the world and instantly see temperature, humidity, wind speed, visibility, and pressure — with full dark mode support.
 
-**Live Demo:** [Add your Vercel link here]
+**Live Demo:** [https://weather-app-green-eight-59.vercel.app/]
 
 ---
 
