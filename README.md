@@ -8,8 +8,6 @@ A real-time weather app built with React.js and Tailwind CSS. Search any city in
 
 ## Screenshots
 
-> *(Add a screenshot after you deploy — press Ctrl+Shift+S in Chrome or use any screen capture tool)*
-
 | Light Mode | Dark Mode |
 |---|---|
 | ![Light mode screenshot](screenshots/light.png) | ![Dark mode screenshot](screenshots/dark.png) |
