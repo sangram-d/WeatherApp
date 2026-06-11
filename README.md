@@ -142,6 +142,6 @@ const [dark, setDark] = useState(
 
 **Your Name**
 - GitHub: [@Sangram_Das](https://github.com/sangram-d)
-- LinkedIn: [linkedin.com/in/your_profile](www.linkedin.com/in/sangram-das-893a832aa)
+- LinkedIn: [www.linkedin.com/in/sangram-das-893a832aa](www.linkedin.com/in/sangram-das-893a832aa)
 
 ---
